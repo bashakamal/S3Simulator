@@ -23,5 +23,4 @@ cation. Our experimental results highlight that the S3Simulator dataset
 will be a promising benchmark dataset for research on underwater image
 analysis.
 
-https://github.com/bashakamal/S3Simulator/issues/1#issue-2597100114
 
