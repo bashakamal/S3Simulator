@@ -24,3 +24,8 @@ will be a promising benchmark dataset for research on underwater image
 analysis.
 
 
+# Architecture of S3Simulator
+![archi](https://github.com/user-attachments/assets/db8a0d68-27af-4083-afc2-735320f32171)
+
+
+
