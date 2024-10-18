@@ -1,5 +1,11 @@
 # S3Simulator-A-benchmarking-Side-Scan-Sonar-simulator-dataset-for-Underwater-Image-Analysis
 
+
+Kamal Basha S , [Athira. M. Nambiar](https://www.srmist.edu.in/faculty/dr-athira-m-nambiar/)
+
+[[Paper](https://arxiv.org/abs/2408.12833)]
+
+
 Acoustic sonar imaging systems are widely used for under-
 water surveillance in both civilian and military sectors. However, the
 acquisition of high-quality sonar datasets for training Artificial Intelli-
@@ -26,6 +32,8 @@ analysis.
 
 # Architecture of S3Simulator
 ![archi](https://github.com/user-attachments/assets/db8a0d68-27af-4083-afc2-735320f32171)
+
+
 
 
 
