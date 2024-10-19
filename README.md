@@ -113,3 +113,50 @@ To improve the quality and realism of the S3Simulator dataset, we employed sever
 
 These techniques ensure the S3Simulator dataset provides high-fidelity sonar images, enhancing the training of AI models for underwater object classification.
 
+
+The dataset consists of the following components:
+
+1. **Silhouette Images**  
+   - **Description**: Images used for object segmentation.
+   - **File Structure**:
+     ```
+     /dataset
+       └── silhouettes
+           ├── silhouette1.png
+           ├── silhouette2.png
+           └── ...
+     ```
+
+2. **SelfCAD 3D Images**  
+   - **Description**: 3D models generated from segmented silhouettes.
+   - **File Structure**:
+     ```
+     /dataset
+       └── selfcad_3d_models
+           ├── model1.obj
+           ├── model2.obj
+           └── ...
+     ```
+
+3. **Gazebo Images**  
+   - **Description**: Sonar images simulated in Gazebo with realistic underwater environments.
+   - **File Structure**:
+     ```
+     /dataset
+       └── gazebo_images
+           ├── sonar_image1.png
+           ├── sonar_image2.png
+           └── ...
+     ```
+
+4. **Sonar Images**  
+   - **Description**: Original sonar images used for analysis and model training.
+   - **File Structure**:
+     ```
+     /dataset
+       └── sonar_images
+           ├── original_sonar1.png
+           ├── original_sonar2.png
+           └── ...
+     ```
+
