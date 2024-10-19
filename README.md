@@ -74,8 +74,9 @@ Steps:
 # Sonar Simulation with Gazebo
 Gazebo is an open-source 3D robotics simulator that we used to simulate sonar images with realistic underwater environments. After generating the 3D models using SelfCAD, we imported them into Gazebo to simulate sonar effects such as shadows, noise, and varying seabed terrain.
 
-Steps to Set Up Gazebo:
-Install Gazebo: Follow the instructions below to install Gazebo on Ubuntu:
+## Steps to Set Up Gazebo:
+
+1. Install Gazebo: Follow the instructions below to install Gazebo on Ubuntu:
 
 ```
 # Add the Gazebo repository to your system's sources list
@@ -91,5 +92,11 @@ sudo apt-get update
 sudo apt-get install gazebo11
 ```
 
+Once installed, you can verify the installation by running:
 
+```
+gazebo
+```
+
+2. Load the 3D Models: Import the .obj models from the models/ directory into your Gazebo environment. Use the SDF (Simulation Description Format) file to reference the 3D models and place them within the simulation environment.
 
