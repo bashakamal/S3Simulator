@@ -5,6 +5,15 @@ Kamal Basha S , [Athira. M. Nambiar](https://www.srmist.edu.in/faculty/dr-athira
 
 [[Paper](https://arxiv.org/abs/2408.12833)]
 
+## S3Simulator Sample Images
+
+| ![strip_ship_1](https://github.com/user-attachments/assets/87f5ac59-1347-4fda-b8a0-eb405c91b86d) | ![strip_ship_2](https://github.com/user-attachments/assets/b7608c0f-d6e7-418a-a7cd-bfbf7cb47586) | ![strip-air-4](https://github.com/user-attachments/assets/21f4983c-59d8-4e92-a0b6-446bb723f871) |
+|---|---|---|
+| ![stripe_air_1](https://github.com/user-attachments/assets/9329442b-4ab4-42b8-b55c-727cebc2f27e) | ![stripe_air_2](https://github.com/user-attachments/assets/7e403ce6-9b7b-4c8d-abe4-d92f1914b21e) | ![stripe_air_3](https://github.com/user-attachments/assets/30645ec7-0a6d-4b85-a046-6b859ec0124d) |
+| ![gold_air_processed_2](https://github.com/user-attachments/assets/bcb52253-d730-40f2-b818-924d3cb1e048) | ![gold_air_processed_3](https://github.com/user-attachments/assets/ca0196de-0ad6-49c2-b00d-866db7c2ae55) | ![gold_air_processed_4](https://github.com/user-attachments/assets/bdb0c9b8-3d51-4b6c-acc9-a60e547254f0) |
+| ![plane-sim-gray-1](https://github.com/user-attachments/assets/e340b1e9-e6f4-40d0-a295-e93982dcfb93) | ![Plane-sim-gray-2](https://github.com/user-attachments/assets/52a1efaf-db43-4ae4-bc86-471f92087361) | ![ship-gray-1](https://github.com/user-attachments/assets/a4ff4686-12bd-426e-a048-c74ca482ff3f) |
+
+
 
 Acoustic sonar imaging systems are widely used for under-
 water surveillance in both civilian and military sectors. However, the
@@ -114,7 +123,7 @@ To improve the quality and realism of the S3Simulator dataset, we employed sever
 These techniques ensure the S3Simulator dataset provides high-fidelity sonar images, enhancing the training of AI models for underwater object classification.
 
 
-The dataset consists of the following components:
+# The dataset consists of the following components:
 
 1. **Silhouette Images**  
    - **Description**: Images used for object segmentation.
