@@ -168,4 +168,15 @@ These techniques ensure the S3Simulator dataset provides high-fidelity sonar ima
            ├── original_sonar2.png
            └── ...
      ```
+# Citation
 
+If you find this work useful in your research, please consider citing it as follows:
+```
+@article{basha2024s3simulator,
+  title={S3Simulator: A benchmarking Side Scan Sonar Simulator dataset for Underwater Image Analysis},
+  author={Basha S, Kamal and Nambiar, Athira},
+  journal={arXiv e-prints},
+  pages={arXiv--2408},
+  year={2024}
+}
+```
