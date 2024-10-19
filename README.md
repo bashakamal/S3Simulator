@@ -114,7 +114,7 @@ To improve the quality and realism of the S3Simulator dataset, we employed sever
 These techniques ensure the S3Simulator dataset provides high-fidelity sonar images, enhancing the training of AI models for underwater object classification.
 
 
-The dataset consists of the following components:
+# The dataset consists of the following components:
 
 1. **Silhouette Images**  
    - **Description**: Images used for object segmentation.
