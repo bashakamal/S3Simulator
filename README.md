@@ -100,3 +100,16 @@ gazebo
 
 2. Load the 3D Models: Import the .obj models from the models/ directory into your Gazebo environment. Use the SDF (Simulation Description Format) file to reference the 3D models and place them within the simulation environment.
 
+# Enhancing Realism in Sonar Images
+To improve the quality and realism of the S3Simulator dataset, we employed several computational imaging techniques:
+
+1. **Noise Variation:** Simulated various noise types, including Gaussian and salt-and-pepper noise, to replicate real-world sonar signal disturbances.
+
+2. **Nadir Zone Effects:** Incorporated depth-dependent attenuation and angle-of-incidence adjustments to accurately reflect sonar performance directly below the sensor.
+
+3. **Dynamic Seabed Interaction:** Modeled seabed materials and their reflectivity to simulate how different compositions affect sonar echoes, including sediment movement effects.
+
+4. **Environmental Factors:** Simulated variable water properties, such as temperature and salinity, along with current effects, to create a more realistic underwater environment.
+
+These techniques ensure the S3Simulator dataset provides high-fidelity sonar images, enhancing the training of AI models for underwater object classification.
+
