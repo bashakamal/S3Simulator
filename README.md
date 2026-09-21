@@ -3,8 +3,8 @@
 Kamal Basha S, [Athira M. Nambiar](https://www.srmist.edu.in/faculty/dr-athira-m-nambiar/)
 Center for AI in Computer Vision
 
-[[Paper (ICPR 2024)](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_15)]
-[[Paper (OCEANS 2025)](https://doi.org/10.23919/OCEANS59106.2025.11244959)]
+[[S3Simulator (ICPR 2024)](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_15)]
+[[S3Simulator+ (OCEANS 2025)](https://doi.org/10.23919/OCEANS59106.2025.11244959)]
 
 ## Overview
 
@@ -221,3 +221,18 @@ If you find this work useful in your research, please consider citing it as foll
   organization={Springer}
 
 ```
+```
+@INPROCEEDINGS{11244959,
+  author={S, Kamal Basha and B, Anukul Kiran and Nambiar, Athira and Rajendran, Suresh},
+  booktitle={OCEANS 2025 - Great Lakes},
+  title={A Novel Context-Adaptive Fusion of Shadow and Highlight Regions for Efficient Sonar Image Classification},
+  year={2025},
+  pages={1-7},
+  doi={10.23919/OCEANS59106.2025.11244959}
+}
+
+```
+## Contact
+
+athiram@srmist.edu.in, bashakamal95@gmail.com. Use these addresses to ask
+questions, report misuse, or request removal of the data.
