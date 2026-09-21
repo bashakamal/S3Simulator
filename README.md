@@ -1,9 +1,18 @@
-# S3Simulator-A-benchmarking-Side-Scan-Sonar-simulator-dataset-for-Underwater-Image-Analysis
+# S3Simulator and S3simulator+ -A-benchmarking-Side-Scan-Sonar-simulator-dataset-for-Underwater-Image-Analysis
 
 
 Kamal Basha S , [Athira. M. Nambiar](https://www.srmist.edu.in/faculty/dr-athira-m-nambiar/)
 
-[[Paper](https://arxiv.org/abs/2408.12833)]
+[[Paper]((https://link.springer.com/chapter/10.1007/978-3-031-78444-6_15))]
+
+S3Simulator
+Original simulator and benchmark dataset
+ICPR 2024
+
+S3Sim+
+Extended dataset/release
+Additional simulation conditions, targets and environmental variations
+Designed for synthetic-to-real and generative-model research
 
 ## S3Simulator Sample Images
 
