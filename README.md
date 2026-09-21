@@ -220,8 +220,7 @@ If you find this work useful in your research, please consider citing it as foll
   year={2024},
   organization={Springer}
 
-```
-```
+
 @INPROCEEDINGS{11244959,
   author={S, Kamal Basha and B, Anukul Kiran and Nambiar, Athira and Rajendran, Suresh},
   booktitle={OCEANS 2025 - Great Lakes},
