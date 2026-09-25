@@ -6,44 +6,7 @@ Center for AI in Computer Vision
 [[S3Simulator (ICPR 2024)](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_15)]
 [[S3Simulator+ (OCEANS 2025)](https://doi.org/10.23919/OCEANS59106.2025.11244959)]
 
-## Overview
 
-| | S3Simulator | S3Simulator+ |
-|---|---|---|
-| What it is | Original simulator and benchmark dataset (ICPR 2024) | Extended dataset and release |
-| Adds | | Additional simulation conditions, targets and environmental variations |
-| Designed for | Underwater image analysis benchmarking | Synthetic-to-real and generative-model research |
-| Classes | ship, plane | mine |
-| Images | 7,721 (3,766 ship, 3,955 plane) | 4,180 |
-| Dataset page | [Hugging Face](https://huggingface.co/datasets/caicv/S3simulator_Synthetic_Sonar_dataset) | [Hugging Face](https://huggingface.co/datasets/caicv/S3simulator_Plus_Synthetic_Sonar_dataset) |
-
-## Getting the datasets
-
-The datasets are free for non-commercial research and are available on
-request, under a signed Data Use Agreement. They are hosted on Hugging Face,
-not in this repository.
-
-1. Open the dataset page above and click **Request access**. You need a
-   Hugging Face account.
-2. Download the [Data Use Agreement](https://huggingface.co/spaces/caicv/README/resolve/main/Data_Use_Agreement_S3Simulator_Datasets.pdf).
-   We will also e-mail it to you after your request.
-3. Fill it in, sign it, and return it as a PDF from your institutional e-mail
-   address to athiram@srmist.edu.in or bashakamal95@gmail.com. Students need
-   a supervisor countersignature.
-4. We approve your access once the signed agreement is received.
-
-Each researcher needs their own approval. Re-distribution of the data is not
-permitted.
-
-## Terms of use
-
-- Non-commercial scientific research only
-- No weapons targeting or offensive military use
-- No re-distribution of the images
-- Please cite the papers below
-
-The datasets are synthetic and differ from real sonar data. Validate on real
-data before claiming real-world performance.
 
 ## S3Simulator Sample Images
 
